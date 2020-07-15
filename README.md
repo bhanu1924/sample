@@ -12,3 +12,7 @@ NINETH
 tenth
 eleventh
 twelveth
+thirteenth
+forteenth
+sixth
+seventeen
